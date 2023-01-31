@@ -1,0 +1,17 @@
+spoon
+hotel
+hello
+watermelon
+glass
+computer
+book
+file
+woman
+wonderful
+sea
+chair
+table
+hand
+person
+student
+
